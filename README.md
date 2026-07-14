@@ -122,6 +122,7 @@ Contributions are always welcome! Please take a look at the [Contribution Guidel
 - [SpiroNet](https://github.com/wieslawsoltes/SpiroNet) - The .NET C# port of libspiro - conversion between spiro control points and bezier's.
 - [TreeViewer](https://github.com/arklumpus/TreeViewer) - Cross-platform software to draw phylogenetic trees.
 - [Xamlade](https://github.com/ComradeAkei/Xamlade) - Visual Avalonia UI XAML editor.
+- [HelixToolkit.Nex](https://github.com/helix-toolkit/helix-toolkit-nex) - Cross-platform Vulkan based general purpose 3D visualization engine.
 
 ### Productivity
 
